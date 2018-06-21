@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-21 20:57:47</sys_created_on>
+        <sys_id>a2f0dd9e09321300964fefbdde266d17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_huscnwc_table.x_huscnwc.user</sys_name>
+        <sys_package display_value="huscnwc" source="x_huscnwc">def0191e09321300964fefbdde266d86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="huscnwc">def0191e09321300964fefbdde266d86</sys_scope>
+        <sys_security_acl display_value="x_huscnwc_table">6ef0dd9e09321300964fefbdde266d14</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a2f0dd9e09321300964fefbdde266d17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-21 20:57:47</sys_updated_on>
+        <sys_user_role display_value="x_huscnwc.user" name="x_huscnwc.user">daf09d9e09321300964fefbdde266de6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

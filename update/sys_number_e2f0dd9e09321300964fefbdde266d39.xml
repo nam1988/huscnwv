@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_huscnwc_table">x_huscnwc_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>HUS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-21 20:57:47</sys_created_on>
+        <sys_id>e2f0dd9e09321300964fefbdde266d39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HUS</sys_name>
+        <sys_package display_value="huscnwc" source="x_huscnwc">def0191e09321300964fefbdde266d86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="huscnwc">def0191e09321300964fefbdde266d86</sys_scope>
+        <sys_update_name>sys_number_e2f0dd9e09321300964fefbdde266d39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-21 20:57:47</sys_updated_on>
+    </sys_number>
+</record_update>
