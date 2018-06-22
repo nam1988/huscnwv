@@ -11,9 +11,9 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>huscnwc Table</mobile_title>
+        <mobile_title>extendstables</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_huscnwc_table</name>
+        <name>x_huscnwc_extendstable</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -21,21 +21,21 @@
         <roles>x_huscnwc.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-06-21 20:57:48</sys_created_on>
+        <sys_created_on>2018-06-22 15:40:05</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>62f0dd9e09321300964fefbdde266d4b</sys_id>
+        <sys_id>56d11daa68fa1300964fd8c192fd1055</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>huscnwc Table</sys_name>
+        <sys_name>extendstables</sys_name>
         <sys_overrides/>
         <sys_package display_value="huscnwc" source="x_huscnwc">def0191e09321300964fefbdde266d86</sys_package>
         <sys_policy/>
         <sys_scope display_value="huscnwc">def0191e09321300964fefbdde266d86</sys_scope>
-        <sys_update_name>sys_app_module_62f0dd9e09321300964fefbdde266d4b</sys_update_name>
+        <sys_update_name>sys_app_module_56d11daa68fa1300964fd8c192fd1055</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-21 20:57:48</sys_updated_on>
+        <sys_updated_on>2018-06-22 15:40:05</sys_updated_on>
         <timeline_page/>
-        <title>huscnwc Table</title>
+        <title>extendstables</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

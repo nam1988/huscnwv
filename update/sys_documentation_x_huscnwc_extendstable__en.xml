@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="number" label="Number" language="en" table="x_huscnwc_table">
+    <sys_documentation element="" label="extendstable" language="en" table="x_huscnwc_extendstable">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Number</label>
+            <label>extendstable</label>
             <language>en</language>
-            <name>x_huscnwc_table</name>
-            <plural>Numbers</plural>
+            <name>x_huscnwc_extendstable</name>
+            <plural>extendstables</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-21 20:57:47</sys_created_on>
-            <sys_id>6af0dd9e09321300964fefbdde266d41</sys_id>
+            <sys_created_on>2018-06-22 15:40:05</sys_created_on>
+            <sys_id>62d11daa68fa1300964fd8c192fd1084</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number</sys_name>
+            <sys_name>extendstable</sys_name>
             <sys_package display_value="huscnwc" source="x_huscnwc">def0191e09321300964fefbdde266d86</sys_package>
             <sys_policy/>
             <sys_scope display_value="huscnwc">def0191e09321300964fefbdde266d86</sys_scope>
-            <sys_update_name>sys_documentation_x_huscnwc_table_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_huscnwc_extendstable__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-21 20:57:47</sys_updated_on>
+            <sys_updated_on>2018-06-22 15:40:05</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

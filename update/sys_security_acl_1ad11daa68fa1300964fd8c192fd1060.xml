@@ -4,22 +4,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_huscnwc_table</description>
-        <name>x_huscnwc_table</name>
+        <description>Default access control on x_huscnwc_extendstable</description>
+        <name>x_huscnwc_extendstable</name>
         <operation display_value="read">read</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-06-21 20:57:47</sys_created_on>
-        <sys_id>62f0dd9e09321300964fefbdde266d0b</sys_id>
+        <sys_created_on>2018-06-22 15:40:05</sys_created_on>
+        <sys_id>1ad11daa68fa1300964fd8c192fd1060</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_huscnwc_table</sys_name>
+        <sys_name>x_huscnwc_extendstable</sys_name>
         <sys_package display_value="huscnwc" source="x_huscnwc">def0191e09321300964fefbdde266d86</sys_package>
         <sys_policy/>
         <sys_scope display_value="huscnwc">def0191e09321300964fefbdde266d86</sys_scope>
-        <sys_update_name>sys_security_acl_62f0dd9e09321300964fefbdde266d0b</sys_update_name>
+        <sys_update_name>sys_security_acl_1ad11daa68fa1300964fd8c192fd1060</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-21 20:57:47</sys_updated_on>
+        <sys_updated_on>2018-06-22 15:40:05</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

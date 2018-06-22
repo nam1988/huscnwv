@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_huscnwc_table" label="extendstable" max_length="40" name="x_huscnwc_extendstable" type="collection">
+        <element label="Str" max_length="40" name="str" type="string"/>
+    </element>
+</database>
